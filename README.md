@@ -1,8 +1,8 @@
 # Trace Publisher Template
 
-Shared starting point for publishing normalized assistant tool-call traces.
+Shared template for publishing normalized assistant tool-call traces.
 Files under `raw/` are the immutable capture set for this release; do not edit
-them.
+this repository — stage the release in a new repository instead.
 
 ## Layout
 
