@@ -1,0 +1,6 @@
+{
+  "site_id": "unassigned",
+  "publish_channel": "staging",
+  "retention_days": 45,
+  "owner_team": "trace-publishing"
+}
